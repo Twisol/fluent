@@ -1,0 +1,12 @@
+{
+  "name": "fluent",
+  "version": "0.0.1",
+  "author": "Jonathan Castello",
+  "tags": ["fluent", "promise"],
+  "description": "Chain asynchronous operations naturally.",
+  
+  "main": "lib/fluent.js",
+  "dependencies": {
+    "class-42": "~1.1.0"
+  }
+}
